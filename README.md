@@ -11,7 +11,7 @@ Ames is a city in Iowa with a population of 65,000 people. She offers cultural, 
 Some of the factors which influence saleprice of property would include location, home size and usable space, age and condition of the house, upgrades to the house. ([*source*](https://www.opendoor.com/w/blog/factors-that-influence-home-value))
 
 # Data Dictionary
-A copy of the data dictionary can be obtained here: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
+A copy of the data dictionary can be obtained (*here*(http://jse.amstat.org/v19n3/decock/DataDocumentation.txt))
 
 # Summary of Analysis
 16 out of 80 features have been selected after going through the EDA process.<br>
