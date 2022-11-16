@@ -1,19 +1,19 @@
 # GA-Project-2
 
-Problem Statement
+# Problem Statement
 We are the Data team working at NexRes which is a property portal trusted for its extensive listings and comprehensive market information on residential property in Iowa.
 The aim of this project is to develop a Regression model that can predict to at least 80% accuracy of Iowa property prices by analysing and narrowing down a list of 80 housing features.
 This would help agents registered under NexRes to predict property sale prices and use this predictor to advise clients to optimise property for sale and maximise profits of their property.
 It is imperative for us to develop this model to maintain our status in the growing industry and empower our agents to continue providing top value to our clients, who rely on us to secure the best deal.
 
-Data Dictionary
+# Data Dictionary
 A copy of the data dictionary can be obtained here: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
-Summary of Analysis
+# Summary of Analysis
 16 out of 80 features have been selected after going through the EDA process.
 Ridge Regression model was used to predict saleprice with an accuracy of 83%
 
-Conclusion/Recommendations
+# Conclusion/Recommendations
 The aim of this project is to develop a Regression model that can predict to at least 80% accuracy of Iowa property prices by analysing and narrowing down a list of 80 housing features.
 In our project, we were given 80 housing features which might affect saleprice to analyse. We have narrrowed it down to 16 features after the EDA process. 
 We then chose the Ridge Regression model to predict saleprices of houses in Ames as it yields the highest R2 and lowest RMSE value amongst all the regression models. The model has an accuracy of 83% in predicting saleprice. 
